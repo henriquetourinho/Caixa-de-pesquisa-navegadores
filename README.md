@@ -6,4 +6,4 @@ O mais bacana é que você redireciona trafégo para esses mecanismos e em contr
 
 <img src="https://raw.githubusercontent.com/henriquetourinho/pesquisa_vai.github.io/main/exemplo.webp" alt="" style="max-width: 100%;">
 
-Demo: <a href="https://henriquetourinho.github.io/pesquisa_vai.github.io/">https://henriquetourinho.github.io/pesquisa_vai.github.io/</a>
+Demo: <a _blank href="https://henriquetourinho.github.io/pesquisa_vai.github.io/">https://henriquetourinho.github.io/pesquisa_vai.github.io/</a>
