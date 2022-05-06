@@ -4,4 +4,4 @@ O <b>Pesquiva Vai</b> utiliza os mecanismos externos como o <b>Google</b>, <b>Bi
 
 O mais bacana é que você redireciona trafégo para esses mecanismos e em contra partida, existe uma grande probabilidade deles priorizarem os seus conteúdos nas pesquisas normais.
 
-<img src="/henriquetourinho/pesquisa_vai.github.io/master/exemplo.webp" alt="" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/henriquetourinho/pesquisa_vai.github.io/main/exemplo.webp" alt="" style="max-width: 100%;">
